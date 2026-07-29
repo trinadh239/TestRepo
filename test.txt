@@ -8,3 +8,4 @@ Crude Falls for 3rd Session
 This is Nadh
 data updated
 Crude oil fell to around $81 per barrel on Tuesday, touching its lowest level in more than a week, as optimism over a potential diplomatic breakthrough between the US and Iran eased concerns about supply disruptions. 
+Added webhook
